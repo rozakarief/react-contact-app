@@ -86,4 +86,5 @@ img {
     width: 100%;
     padding: 8px;
     font-family: 'Inter', sans-serif;
+    cursor: pointer;
 }
